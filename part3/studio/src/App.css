@@ -42,7 +42,7 @@
 }
 
 .recipePhotoBlock {
-  display: flex;
+  display: inline;
   justify-content: space-evenly;
 }
 
